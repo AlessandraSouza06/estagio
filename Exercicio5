@@ -1,0 +1,15 @@
+Rotule os interruptores: Vamos chamá-los de Interruptor A, Interruptor B e Interruptor C.
+
+Primeira ação:
+
+Ligue o Interruptor A e deixe-o ligado por um período de tempo suficiente para que a lâmpada que ele controla aqueça.
+Após um certo período, desligue o Interruptor A.
+Ligue o Interruptor B.
+Deixe o Interruptor C desligado.
+
+Primeira ida à sala das lâmpadas:
+
+Vá até as salas das lâmpadas e observe o estado de cada lâmpada:
+Lâmpada que está acesa: Essa lâmpada é controlada pelo Interruptor B.
+Lâmpada que está apagada, mas quente: Essa lâmpada foi controlada pelo Interruptor A
+Lâmpada que está apagada e fria: Essa lâmpada é controlada pelo Interruptor C
