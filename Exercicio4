@@ -1,0 +1,17 @@
+A)Progressão aritmética onde cada termo é 2 unidades maior que o anterior.
+Próximo elemento: 9
+
+B)Progressão geométrica onde cada termo é o dobro do anterior.
+Próximo elemento: 128
+
+C)A sequência é composta pelos quadrados dos números naturais 0, 1, 2, 3, 4, 5, 6...
+Próximo elemento: 49
+
+D)A sequência é composta pelos quadrados dos números pares.
+Próximo elemento: 100
+
+E)Sequência de Fibonacci, onde cada número é a soma dos dois números anteriores.
+Próximo elemento: 13
+
+F)A sequência esta listando todos os números de 1 a 19, mas exclui todos os números que possuem dígitos repetidos.
+Próximo elemento: 20
